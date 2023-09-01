@@ -16,4 +16,4 @@ me chamo kahuan <br>Estou me desenvolvendo na linguagem de JavaScript<br>Utilizo
 [![](https://visitcount.itsvg.in/api?id=kahuanvietroo&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-/api?rainbow=true
+
